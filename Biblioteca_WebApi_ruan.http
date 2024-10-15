@@ -1,0 +1,6 @@
+@Biblioteca_WebApi_ruan_HostAddress = http://localhost:5201
+
+GET {{Biblioteca_WebApi_ruan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
