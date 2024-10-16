@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\repositorio\\categoriar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:repositorio\\categoriar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\tbcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:orm\\tbcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\repositorio\\emprestimor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:repositorio\\emprestimor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\bibliotecawebapiruancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:orm\\bibliotecawebapiruancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\repositorio\\reservar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:repositorio\\reservar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\repositorio\\membror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:repositorio\\membror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\repositorio\\livror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:repositorio\\livror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\repositorio\\funcionarior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:repositorio\\funcionarior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\tbcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:orm\\tbcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\model\\membro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:model\\membro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\tbmembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:orm\\tbmembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\tblivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\tbreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:orm\\tbreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|c:\\users\\aluno noite\\documents\\ruan\\biblioteca_webapi\\orm\\tbmembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24079183-9BBA-4C64-8AED-53A6CB16D539}|Biblioteca_WebApi_ruan.csproj|solutionrelative:orm\\tbmembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,123 +115,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Livro.cs",
-              "RelativeDocumentMoniker": "Model\\Livro.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Livro.cs",
-              "RelativeToolTip": "Model\\Livro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:35:11.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Model\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Funcionario.cs",
-              "RelativeToolTip": "Model\\Funcionario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:31:36.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Emprestimo.cs",
-              "RelativeDocumentMoniker": "Model\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Emprestimo.cs",
-              "RelativeToolTip": "Model\\Emprestimo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:26:51.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TbUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbUsuario.cs",
-              "RelativeDocumentMoniker": "ORM\\TbUsuario.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbUsuario.cs",
-              "RelativeToolTip": "ORM\\TbUsuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:28.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TbReserva.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbReserva.cs",
-              "RelativeDocumentMoniker": "ORM\\TbReserva.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbReserva.cs",
-              "RelativeToolTip": "ORM\\TbReserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:25.91Z",
+              "WhenOpened": "2024-10-16T20:39:07.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TbMembro.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbMembro.cs",
-              "RelativeDocumentMoniker": "ORM\\TbMembro.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbMembro.cs",
-              "RelativeToolTip": "ORM\\TbMembro.cs",
+              "Title": "ReservaR.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\ReservaR.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ReservaR.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\ReservaR.cs",
+              "RelativeToolTip": "Repositorio\\ReservaR.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:24.874Z",
+              "WhenOpened": "2024-10-16T17:57:57.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TbLivro.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbLivro.cs",
-              "RelativeDocumentMoniker": "ORM\\TbLivro.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbLivro.cs",
-              "RelativeToolTip": "ORM\\TbLivro.cs",
+              "DocumentIndex": 11,
+              "Title": "MembroR.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\MembroR.cs",
+              "RelativeDocumentMoniker": "Repositorio\\MembroR.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\MembroR.cs",
+              "RelativeToolTip": "Repositorio\\MembroR.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:23.643Z",
+              "WhenOpened": "2024-10-16T17:57:39.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TbFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbFuncionario.cs",
-              "RelativeDocumentMoniker": "ORM\\TbFuncionario.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbFuncionario.cs",
-              "RelativeToolTip": "ORM\\TbFuncionario.cs",
+              "DocumentIndex": 12,
+              "Title": "LivroR.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\LivroR.cs",
+              "RelativeDocumentMoniker": "Repositorio\\LivroR.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\LivroR.cs",
+              "RelativeToolTip": "Repositorio\\LivroR.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:22.292Z",
+              "WhenOpened": "2024-10-16T17:57:12.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FuncionarioR.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\FuncionarioR.cs",
+              "RelativeDocumentMoniker": "Repositorio\\FuncionarioR.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\FuncionarioR.cs",
+              "RelativeToolTip": "Repositorio\\FuncionarioR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:55:30.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TbEmprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbEmprestimo.cs",
-              "RelativeDocumentMoniker": "ORM\\TbEmprestimo.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbEmprestimo.cs",
-              "RelativeToolTip": "ORM\\TbEmprestimo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EmprestimoR.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\EmprestimoR.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EmprestimoR.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\EmprestimoR.cs",
+              "RelativeToolTip": "Repositorio\\EmprestimoR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:06.931Z",
+              "WhenOpened": "2024-10-16T17:55:11.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "CategoriaR.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\CategoriaR.cs",
+              "RelativeDocumentMoniker": "Repositorio\\CategoriaR.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Repositorio\\CategoriaR.cs",
+              "RelativeToolTip": "Repositorio\\CategoriaR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:54:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Usuario.cs",
+              "RelativeToolTip": "Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:21:46.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Reserva.cs",
+              "RelativeDocumentMoniker": "Model\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Reserva.cs",
+              "RelativeToolTip": "Model\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:16:45.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TbCategoria.cs",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbCategoria.cs",
               "RelativeDocumentMoniker": "ORM\\TbCategoria.cs",
@@ -192,16 +244,177 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "Model\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\CategoriaDto.cs",
+              "RelativeToolTip": "Model\\CategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:18:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Categoria.cs",
               "RelativeDocumentMoniker": "Model\\Categoria.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Categoria.cs",
               "RelativeToolTip": "Model\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T20:09:25.396Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:12:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BibliotecaWebApiRuanContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\BibliotecaWebApiRuanContext.cs",
+              "RelativeDocumentMoniker": "ORM\\BibliotecaWebApiRuanContext.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\BibliotecaWebApiRuanContext.cs",
+              "RelativeToolTip": "ORM\\BibliotecaWebApiRuanContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:22:22.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Membro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Membro.cs",
+              "RelativeDocumentMoniker": "Model\\Membro.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Membro.cs",
+              "RelativeToolTip": "Model\\Membro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:11:56.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Livro.cs",
+              "RelativeDocumentMoniker": "Model\\Livro.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Livro.cs",
+              "RelativeToolTip": "Model\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:35:11.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Model\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Funcionario.cs",
+              "RelativeToolTip": "Model\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:31:36.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "Model\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\Model\\Emprestimo.cs",
+              "RelativeToolTip": "Model\\Emprestimo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:26:51.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TbUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbUsuario.cs",
+              "RelativeDocumentMoniker": "ORM\\TbUsuario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbUsuario.cs",
+              "RelativeToolTip": "ORM\\TbUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:28.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TbReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbReserva.cs",
+              "RelativeDocumentMoniker": "ORM\\TbReserva.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbReserva.cs",
+              "RelativeToolTip": "ORM\\TbReserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TbMembro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbMembro.cs",
+              "RelativeDocumentMoniker": "ORM\\TbMembro.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbMembro.cs",
+              "RelativeToolTip": "ORM\\TbMembro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TbLivro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbLivro.cs",
+              "RelativeDocumentMoniker": "ORM\\TbLivro.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbLivro.cs",
+              "RelativeToolTip": "ORM\\TbLivro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:23.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TbFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbFuncionario.cs",
+              "RelativeDocumentMoniker": "ORM\\TbFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbFuncionario.cs",
+              "RelativeToolTip": "ORM\\TbFuncionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:22.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TbEmprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbEmprestimo.cs",
+              "RelativeDocumentMoniker": "ORM\\TbEmprestimo.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Ruan\\Biblioteca_WebAPI\\ORM\\TbEmprestimo.cs",
+              "RelativeToolTip": "ORM\\TbEmprestimo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:06.931Z"
             }
           ]
         }
