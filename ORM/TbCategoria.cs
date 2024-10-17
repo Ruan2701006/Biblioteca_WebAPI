@@ -9,9 +9,7 @@ public partial class TbCategoria
 
     public string Nome { get; set; } = null!;
 
-    public string Categoria { get; set; } = null!;
+    public string Descricao { get; set; } = null!;
 
     public virtual ICollection<TbLivro> TbLivros { get; set; } = new List<TbLivro>();
-    public string FkCategoria { get; internal set; }
-    public string Descricao { get; internal set; }
 }

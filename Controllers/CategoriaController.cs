@@ -10,7 +10,7 @@ namespace BibliotecaWebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+   
     public class CategoriaController : ControllerBase
     {
         private readonly CategoriaR _categoriaRepo;
@@ -24,7 +24,7 @@ namespace BibliotecaWebAPI.Controllers
         [HttpGet]
         public ActionResult<List<Categoria>> GetAll()
         {
-            try
+            
             {
                 var categorias = _categoriaRepo.GetAll();
 
@@ -42,17 +42,14 @@ namespace BibliotecaWebAPI.Controllers
 
                 return Ok(listaCat);
             }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { Mensagem = "Erro ao buscar categorias.", Erro = ex.Message });
-            }
+            
         }
 
         // GET: api/Categoria/{id}
         [HttpGet("{id}")]
         public ActionResult<Categoria> GetById(int id)
         {
-            try
+            
             {
                 var categoria = _categoriaRepo.GetById(id);
 
@@ -70,17 +67,14 @@ namespace BibliotecaWebAPI.Controllers
 
                 return Ok(categoriaId);
             }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { Mensagem = "Erro ao buscar categoria.", Erro = ex.Message });
-            }
+            
         }
 
         // POST api/<CategoriaController>
         [HttpPost]
         public ActionResult<object> Post([FromForm] CategoriaDto novoCategoria)
         {
-            try
+            
             {
                 var categoria = new Categoria
                 {
@@ -99,17 +93,14 @@ namespace BibliotecaWebAPI.Controllers
 
                 return Ok(resultado);
             }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { Mensagem = "Erro ao cadastrar categoria.", Erro = ex.Message });
-            }
+            
         }
 
         // PUT api/<CategoriaController>/5
         [HttpPut("{id}")]
         public ActionResult<object> Put(int id, [FromForm] CategoriaDto categoriaAtualizado)
         {
-            try
+            
             {
                 var categoriaExistente = _categoriaRepo.GetById(id);
 
@@ -132,17 +123,14 @@ namespace BibliotecaWebAPI.Controllers
 
                 return Ok(resultado);
             }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { Mensagem = "Erro ao atualizar categoria.", Erro = ex.Message });
-            }
+            
         }
 
         // DELETE api/<CategoriaController>/5
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
-            try
+            
             {
                 var categoriaExistente = _categoriaRepo.GetById(id);
 
@@ -162,10 +150,7 @@ namespace BibliotecaWebAPI.Controllers
 
                 return Ok(resultado);
             }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { Mensagem = "Erro ao excluir categoria.", Erro = ex.Message });
-            }
+            
         }
     }
 }

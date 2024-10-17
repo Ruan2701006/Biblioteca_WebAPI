@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca_WebApi_ruan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+817a84946787e445f26ebd100246e6cc1fffe6ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+506f9024565e921464fd0e18b07333a80b0f7e20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biblioteca_WebApi_ruan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca_WebApi_ruan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

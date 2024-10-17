@@ -1,6 +1,7 @@
 ﻿using Biblioteca_WebApi_ruan.Model;
 using Biblioteca_WebApi_ruan.ORM;
 
+
 namespace Biblioteca_WebApi_ruan.Repositorio
 {
     public class CategoriaR
@@ -16,6 +17,7 @@ namespace Biblioteca_WebApi_ruan.Repositorio
         {
             var tbCategoria = new TbCategoria()
             {
+                Id = categoria.Id,
                 Nome = categoria.Nome,
                 Descricao = categoria.Descricao,
             };
@@ -55,8 +57,10 @@ namespace Biblioteca_WebApi_ruan.Repositorio
             {
                 var categorias = new Categoria
                 {
+                    Id = item.Id,
                     Nome = item.Nome,
-                    Descricao = item.Descricao
+                    Descricao = item.Descricao,
+                    
                 };
 
                 listFun.Add(categorias);
@@ -78,9 +82,9 @@ namespace Biblioteca_WebApi_ruan.Repositorio
             // Mapeia o objeto encontrado para a classe Funcionario
             var categorias = new Categoria
             {
+                Id = item.Id,
                 Nome = item.Nome,
-                Descricao = item.Descricao
-                
+                Descricao = item.Descricao,
             };
 
             return categorias; // Retorna o funcionário encontrado
@@ -94,6 +98,7 @@ namespace Biblioteca_WebApi_ruan.Repositorio
             if (tbCategoria != null)
             {
                 // Atualiza os campos da entidade com os valores do objeto Funcionario recebido
+                tbCategoria.Id = categoria.Id;
                 tbCategoria.Nome = categoria.Nome;
                 tbCategoria.Descricao = categoria.Descricao;
                 

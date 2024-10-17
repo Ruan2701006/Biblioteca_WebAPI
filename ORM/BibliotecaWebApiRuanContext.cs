@@ -28,7 +28,7 @@ public partial class BibliotecaWebApiRuanContext : DbContext
     public virtual DbSet<TbReserva> TbReservas { get; set; }
 
     public virtual DbSet<TbUsuario> TbUsuarios { get; set; }
-    public object TbCategoria { get; internal set; }
+    public object TbEmprestimo { get; internal set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -40,7 +40,7 @@ public partial class BibliotecaWebApiRuanContext : DbContext
         {
             entity.ToTable("TB_CATEGORIAS");
 
-            entity.Property(e => e.Categoria)
+            entity.Property(e => e.Descricao)
                 .HasMaxLength(100)
                 .IsUnicode(false);
             entity.Property(e => e.Nome)
