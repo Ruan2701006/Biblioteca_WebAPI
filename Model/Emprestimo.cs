@@ -7,6 +7,5 @@
         public DateOnly DataDevolucao { get; set; }
         public int FkLivros { get; set; }
         public int FkMenbros { get; internal set; }
-       
     }
 }

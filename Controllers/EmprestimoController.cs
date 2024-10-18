@@ -1,11 +1,17 @@
 ﻿using Biblioteca_WebApi_ruan.Model;
-using Biblioteca_WebApi_ruan.ORM;
 using Biblioteca_WebApi_ruan.Repositorio;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Biblioteca_WebApi_ruan.Controllers
 {
-    public class EmprestimoController
+    [Route("api/[controller]")]
+    [ApiController]
+
+    public class EmprestimoController : ControllerBase
     {
         private readonly EmprestimoR _emprestimoRepo;
         
@@ -43,16 +49,6 @@ namespace Biblioteca_WebApi_ruan.Controllers
 
         }
 
-        private ActionResult<List<Emprestimo>> Ok(List<Emprestimo> listaCat)
-        {
-            throw new NotImplementedException();
-        }
-
-        private ActionResult<List<Emprestimo>> NotFound(object value)
-        {
-            throw new NotImplementedException();
-        }
-
         // GET: api/Categoria/{id}
         [HttpGet("{id}")]
         public ActionResult<Emprestimo> GetById(int id)
@@ -78,11 +74,6 @@ namespace Biblioteca_WebApi_ruan.Controllers
                 return Ok(emprestimoId);
             }
 
-        }
-
-        private ActionResult<Emprestimo> Ok(Emprestimo emprestimoId)
-        {
-            throw new NotImplementedException();
         }
 
         // POST api/<CategoriaController>
@@ -116,11 +107,6 @@ namespace Biblioteca_WebApi_ruan.Controllers
 
         }
 
-        private ActionResult<object> Ok(object resultado)
-        {
-            throw new NotImplementedException();
-        }
-
         // PUT api/<CategoriaController>/5
         [HttpPut("{id}")]
         public ActionResult<object> Put(int id, [FromForm] EmprestimoDto emprestimoAtualizado)
@@ -134,7 +120,7 @@ namespace Biblioteca_WebApi_ruan.Controllers
                     return NotFound(new { Mensagem = "Categoria não encontrado." });
                 }
 
-                emprestimoExistente.Id = emprestimoAtualizado.Id;
+                
                 emprestimoExistente.FkLivros = emprestimoAtualizado.FkLivros;
                 emprestimoExistente.FkMenbros = emprestimoAtualizado.FkMenbros;
                 emprestimoExistente.DataEmprestimo = emprestimoAtualizado.DataEmprestimo;

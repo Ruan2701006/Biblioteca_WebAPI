@@ -18,9 +18,5 @@ public partial class TbEmprestimo
     public virtual TbLivro FkLivrosNavigation { get; set; } = null!;
 
     public virtual TbMembro FkMenbrosNavigation { get; set; } = null!;
-    public string Nome { get; internal set; }
-    public string Descricao { get; internal set; }
-    public string Email { get; internal set; }
-    public string Telefone { get; internal set; }
-    public string Cargo { get; internal set; }
+    
 }

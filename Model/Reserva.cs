@@ -4,8 +4,8 @@
     {
         public int Id { get; set; }
         public DateOnly DataReserva { get; set; }
-        public string FkMembros { get; set; }
-        public string FkLivros { get; set; }
+        public int FkMembros { get; set; }
+        public int FkLivros { get; set; }
         
     }
 }

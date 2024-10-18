@@ -11,7 +11,7 @@ public partial class TbMembro
 
     public string Email { get; set; } = null!;
 
-    public string Telefone { get; set; } = null!;
+    public int Telefone { get; set; } 
 
     public DateOnly DataCadastro { get; set; }
 

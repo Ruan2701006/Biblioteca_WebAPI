@@ -6,10 +6,10 @@
 
         public string Autor { get; set; }
 
-        public int AnoPublicacao { get; set; }
+        public DateOnly AnoPublicacao { get; set; }
 
         public int FkCategoria { get; set; }
 
-        public bool Disponibilidade { get; set; }
+        public int Disponibilidade { get; set; }
     }
 }

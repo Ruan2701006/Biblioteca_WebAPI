@@ -15,9 +15,15 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BibliotecaWebApiRuanContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Adicione o repositório FuncionarioR
+// Adicione o repositório 
 builder.Services.AddScoped<CategoriaR>();
+builder.Services.AddScoped<EmprestimoR>();
+builder.Services.AddScoped<FuncionarioR>();
+builder.Services.AddScoped<LivroR>();
+builder.Services.AddScoped<ReservaR>();
+builder.Services.AddScoped<UsuarioR>();
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
